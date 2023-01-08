@@ -1,0 +1,19 @@
+id: A4E18FFEF
+title: 'Calling the Guru from Afar: A Prayer to Jigme Lingpa'
+type: translation
+pechas:
+- IED2DEBBE
+- IEF58ACCB
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:40:32.400557
+  last_modified_at: 2023-01-04 12:40:32.400572
+  collections:
+  - Jigme Lingpa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IED2DEBBE/7D1B: '4777'
+  IEF58ACCB/5853: '4777'
